@@ -136,7 +136,7 @@ footer {
 .project-tile img {
   align-self: center;
   object-fit: cover;
-  width: 30vw;
+  width: 20vw;
 }
 
 .project-tile span {
